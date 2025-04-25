@@ -1,87 +1,67 @@
-const holidays = {
-    "1-1": "Jaunais Gads",
-    "1-6": "Zvaigznes diena",
-    "2-14": "Valentīndiena",
-    "3-8": "Sieviešu diena",
-    "5-1": "Darba svētki / Latvijas Republikas Satversmes sapulces sasaukšanas diena",
-    "5-4": "Latvijas Neatkarības atjaunošanas diena",
-    "6-23": "Līgo diena",
-    "6-24": "Jāņi",
-    "11-18": "Latvijas Republikas Proklamēšanas diena",
-    "12-24": "Ziemassvētku vakars",
-    "12-25": "Pirmie Ziemassvētki",
-    "12-26": "Otrie Ziemassvētki",
-    "12-31": "Vecgada vakars"
-  };
+const kal = document.getElementById("calendar");
+const mGads = document.getElementById("monthYear");
+let datums = new Date();
+let men = datums.getMonth();
+let gads = datums.getFullYear();
+const svetkupanelis = document.getElementById("svetki");
 
-  const calendar = document.getElementById("calendar");
-  const monthYear = document.getElementById("monthYear");
-  let today = new Date();
-  let currentMonth = today.getMonth();
-  let currentYear = today.getFullYear();
+const dienas = ["Pirmdiena", "Otrdiena", "Trešdiena", "Ceturtdiena", "Piektdiena", "Sestdiena", "Svētdiena"];
+const svetki = {
+  "1-1": "Jaunais Gads",
+  "2-14": "Valentīndiena",
+  "3-8": "Sieviešu diena",
+  "5-4": "Neatkarības atjaunošana, ASdasdasd, ASD ASD ASD ,sa dAS d",
+  "6-23": "Līgo",
+  "6-24": "Jāņi",
+  "11-18": "Proklamēšanas diena",
+  "12-24": "Z-svētku vakars",
+  "12-25": "1. Z-svētki",
+  "12-26": "2. Z-svētki",
+  "12-31": "Vecgada vakars"
+};
 
-  const daysOfWeek = ["Pirmdiena", "Otrdiena", "Trešdiena", "Ceturtdiena", "Piektdiena", "Sestdiena", "Svētdiena"];
+function kalendar(m, g) {
+  kal.innerHTML = "";
+  svetkupanelis.innerHTML = "<h2>Svētki</h2><p>Izvēlieties dienu, lai redzētu svētkus</p>";
+  const pirmdiena = new Date(g, m).getDay();
+  const dienasSk = new Date(g, m + 1, 0).getDate();
+  const nobīde = (pirmdiena + 6) % 7;
+  mGads.textContent = mennosaukums(m) + " " + g;
 
-  function renderCalendar(month, year) {
-    calendar.innerHTML = "";
+  dienas.forEach(d => kal.innerHTML += `<div class="weekday"><strong>${d}</strong></div>`);
+  for (let i = 0; i < nobīde; i++) kal.innerHTML += `<div class="day0"></div>`;
 
-    const firstDay = new Date(year, month).getDay();
-    const daysInMonth = new Date(year, month + 1, 0).getDate();
-    const offset = (firstDay + 6) % 7;
-
-    monthYear.textContent = `${getMonthName(month)} ${year}`;
-
-    daysOfWeek.forEach(day => {
-      const header = document.createElement("div");
-      header.className = "weekday";
-      header.innerHTML = `<strong>${day}</strong>`;
-      calendar.appendChild(header);
-    });
-
-    for (let i = 0; i < offset; i++) {
-      const empty = document.createElement("div");
-      empty.className = "day";
-      calendar.appendChild(empty);
-    }
-
-    for (let d = 1; d <= daysInMonth; d++) {
-      const dayDiv = document.createElement("div");
-      dayDiv.className = "daybl";
-      const dateKey = `${month + 1}-${d}`;
-      let content = ``;
-      if (holidays[dateKey]) {
-        content = `<div class="holiday">${holidays[dateKey]}</div>`;
+  for (let d = 1; d <= dienasSk; d++) {
+    const datumsKey = `${m + 1}-${d}`;
+    const sv = svetki[datumsKey] ? `<div class="holiday">${svetki[datumsKey]}</div>` : "";
+    const diena = document.createElement("div");
+        diena.classList.add("day");
+        diena.innerHTML = `<span>${d}</span>${sv}`;
+        diena.onclick = () => svetkip(datumsKey, d, mennosaukums(m));
+        kal.appendChild(diena);
       }
-      const dayDiv1 = document.createElement("div");
-      dayDiv1.className = "day";
-      dayDiv1.innerHTML = d;
-      calendar.appendChild(dayDiv1);
-      dayDiv.innerHTML = content;
-      dayDiv1.appendChild(dayDiv);
     }
-  }
 
-  function getMonthName(month) {
-    const months = ["Janvāris", "Februāris", "Marts", "Aprīlis", "Maijs", "Jūnijs", "Jūlijs", "Augusts", "Septembris", "Oktobris", "Novembris", "Decembris"];
-    return months[month];
-  }
-
-  function prevMonth() {
-    currentMonth--;
-    if (currentMonth < 0) {
-      currentMonth = 11;
-      currentYear--;
+    function svetkip(datumsKey, d, m) {
+      if (svetki[datumsKey]) {
+        svetkupanelis.innerHTML = `<h2>Svētki ${d + " " + m}</h2><p>${svetki[datumsKey]}</p>`;
+      } else {
+        svetkupanelis.innerHTML = `<h2>Svētki ${d + " " + m}</h2><p>Šajā dienā nav svētku</p>`;
+      }
     }
-    renderCalendar(currentMonth, currentYear);
-  }
 
-  function nextMonth() {
-    currentMonth++;
-    if (currentMonth > 11) {
-      currentMonth = 0;
-      currentYear++;
-    }
-    renderCalendar(currentMonth, currentYear);
-  }
+function mennosaukums(m) {
+  return ["Janvāris", "Februāris", "Marts", "Aprīlis", "Maijs", "Jūnijs", "Jūlijs", "Augusts", "Septembris", "Oktobris", "Novembris", "Decembris"][m];
+}
 
-  renderCalendar(currentMonth, currentYear);
+function ieprmen() {
+  if (--men < 0) { men = 11; gads--; }
+  kalendar(men, gads);
+}
+
+function nakmen() {
+  if (++men > 11) { men = 0; gads++; }
+  kalendar(men, gads);
+}
+
+kalendar(men, gads);

@@ -29,23 +29,59 @@ h1 {
     max-height: 80px;
 }
 
-.daybl {
-    max-height: 60px;
-    overflow:scroll;
+.day0 {
+    padding: 5px;
+    border: 1px solid #ffffff;
+    min-height: 80px;
+    position: relative;
+    max-height: 80px;
 }
 
 .day span {
-    position: absolute;
     top: 5px;
     left: 5px;
     font-weight: bold;
 }
 
+.day:hover {
+    background-color: #f0f0f0;
+  }
+
 .holiday {
     font-size: 0.8em;
+    overflow: scroll;
+    max-height: 65px;
 }
 
 #controls {
     text-align: center;
     margin: 20px;
+}
+
+#svetki {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+}
+
+#calendar-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#but1 {
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+}
+
+#but1:hover {
+    background-color: rgb(225, 239, 250);
+    border: 1px solid #ccc;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
 }
