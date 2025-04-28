@@ -1,8 +1,7 @@
 # Kalendārs
 
-
 ## Ievads
-
+Rīks ir kalendārs, kurā tiek parādīts, kādi svētki tiek svinēti katru gadu kādā atsevišķā dienā.
 
 ## Pārskats
 Rīks izveidots ar 3 dažādiem failiem - HTML, CSS, JavaScript. HTML failā ir divi galvenie konteineri. 
