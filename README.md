@@ -1,9 +1,10 @@
-#Ievads
+# Kalendārs
+## Ievads
 
-#Pārskats
+## Pārskats
 
-#Iespējamie uzlabojumi
+## Iespējamie uzlabojumi
 
-#Resursi
+## Resursi
 
-#Autori
+## Autori
