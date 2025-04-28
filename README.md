@@ -7,7 +7,7 @@ Rīks ir kalendārs, kurā tiek parādīts, kādi svētki tiek svinēti katru ga
 Rīks izveidots ar 4 dažādiem failiem - HTML, CSS, JavaScript  un JSON. HTML failā ir divi galvenie konteineri. 
 Viens ir navigācijas pogām. Otrs ir kalendāram un atsevišķam panelim, kur tiek parādīti svētki izvēlētajā dienā.
 Ar CSS un JavaScript failu palīdzību tiek izveidoti un aizpildīti objekti un pievienoti html failam (kalendārs, svētku panelis, u.c.).
-Svētku nosaukumi ir glabāti JSON failā.
+Svētku nosaukumi glabājas JSON failā.
 
 ## Iespējamie uzlabojumi
 Pārveidot kaut kā savādāk, lai nevarētu izvēlēties gadus, kuri iet mīnusā, piemēram, -240 gads. 
