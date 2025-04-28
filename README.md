@@ -1,4 +1,4 @@
-# Kalendārs
+# Svētku Kalendārs
 
 ## Ievads
 Rīks ir kalendārs, kurā tiek parādīts, kādi svētki tiek svinēti katru gadu kādā atsevišķā dienā.
