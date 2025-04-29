@@ -3,7 +3,7 @@
         {
             "date": "1-1",
             "name": "Jaunais Gads",
-            "info": "Отмечается наступление нового года.",
+            "info": "Tiek svinēta Jaunā gada atnākšana..",
             "link": ""
         },
         {
@@ -267,7 +267,7 @@
         {
             "date": "2-14",
             "name": "Valentīndiena",
-            "info": "День всех влюблённых.",
+            "info": "Visu mīlētāju diena.",
             "link": ""
         },
         {
@@ -405,8 +405,8 @@
         {
             "date": "3-8",
             "name": "Sieviešu diena",
-            "info": "Международный женский день.",
-            "link": "https://ru.wikipedia.org/wiki/Международный_женский_день"
+            "info": "Starptautiskā sieviešu diena.",
+            "link": "https://lv.wikipedia.org/wiki/Starptautisk%C4%81_sievie%C5%A1u_diena"
         },
         {
             "date": "3-9",
@@ -548,206 +548,206 @@
         },
         {
             "date": "4-1",
-            "name": "День смеха",
-            "info": "«День смеха, День дураков» - всемирный праздник, во время которого принято разыгрывать друзей и знакомых или просто подшучивать над ними. <br>Именно 1 апреля предки современных ирландцев отмечали его, а все шутки и розыгрыши были посвящены богу смеха.",
+            "name": "Joku diena",
+            "info": "«Joku diena» - vispasaules svētki, kuru laikā ir pieņemts izjokot draugus un paziņas. <br>Tieši 1. aprīlī to svinēja mūsdienu īru senči, un visi joki un palaidnības bija veltītas smieklu dievam.",
             "link": ""
         },
         {
             "date": "4-1",
-            "name": "День птиц",
-            "info": "«Международный день птиц» - глобальный экологический праздник, направленный на сохранение разнообразия и численности птиц.",
+            "name": "Putnu diena",
+            "info": "«Starptautiskā putnu diena» - globāli vides svētki, kuru mērķis ir saglabāt putnu daudzveidību un skaitu.",
             "link": ""
         },
         {
             "date": "4-2",
-            "name": "Дeнь дeтcкoй книги",
-            "info": "«Международный день детской книги» отмечается 2 апреля, в день рождения Х. К. Андерсена",
+            "name": "Bērnu grāmatu diena",
+            "info": "«Bērnu grāmatu diena» 2. aprīlī svinējas, Hansa Kristiana Andersena dzimšana diena",
             "link": ""
         },
         {
             "date": "4-3",
-            "name": "День вечеринки",
-            "info": "«Международный день вечеринки» - весёлый неофициальный праздник",
+            "name": "Ballīšu diena",
+            "info": "«Starptautiskā Ballīšu diena» - jautri neoficiāli svētki",
             "link": ""
         },
         {
             "date": "4-4",
             "name": "День интернета",
-            "info": "«Международный день интернета» — праздник, посвящённый глобальной сети хранения данных и её роли в жизни человека.",
+            "info": "«Starptautiskā Interneta diena» — svētki, kas veltīti globālajam datu uzglabāšanas tīklam un tā lomai cilvēka dzīvē.",
             "link": ""
         },
         {
             "date": "4-4",
-            "name": "День крысы",
-            "info": "«Всемирный день крысы» отмечается с 2002 года по инициативе любителей декоративных крыс с целью привлечения внимания к ним, повышения их имиджа, а также искоренения многих человеческих предрассудков по отношению к этим неординарным животным.",
+            "name": "Žurkas diena",
+            "info": "«Vispasaules Žurkas diena» Tā tiek svinēta kopš 2002. gada pēc dekoratīvo žurku cienītāju iniciatīvas ar mērķi pievērst tām uzmanību, uzlabot to tēlu un izskaust daudzus cilvēku aizspriedumus pret šiem neparastajiem dzīvniekiem.",
             "link": ""
         },
         {
             "date": "4-5",
-            "name": "День нравственности",
-            "info": "Праздник появился по инициативе ООН, чтобы напомнить: нормы морали — не абстрактные формулы, а основа уважительного сосуществования.",
+            "name": "Sirdsapziņas diena",
+            "info": "Svētki radīti pēc ANO iniciatīvas, lai atgādinātu cilvēkiem, ka morāles normas nav abstraktas formulas, bet gan cieņpilnas līdzāspastāvēšanas pamats.",
             "link": ""
         },
         {
             "date": "4-6",
-            "name": "День мультфильмов",
-            "info": "«Всемирный день мультфильма» — это ежегодный праздник, который отмечается 6 апреля во многих странах мира. Этот день посвящен анимации и мультфильмам, которые являются неотъемлемой частью культуры многих стран.",
+            "name": "Multfilmu diena",
+            "info": "«Vispasaules Multfilmu diena» — Tie ir ikgadēji svētki, ko 6. aprīlī svin daudzās pasaules valstīs. Šī diena veltīta animācijai un multfilmām, kas ir daudzu valstu kultūras neatņemama sastāvdaļa.",
             "link": ""
         },
         {
             "date": "4-7",
-            "name": "День здоровья",
-            "info": "«Всемирный день здоровья» - учредили в честь создания Всемирной организации здравоохранения в 1948 году.",
+            "name": "Veselības diena",
+            "info": "«Vispasaules Veselības diena» - tika dibināta par godu Pasaules Veselības organizācijas izveidošanai 1948. gadā.",
             "link": ""
         },
         {
             "date": "4-7",
-            "name": "День бобра",
-            "info": "«Международный день бобра» — это особый праздник, посвященный животным, чья деятельность формирует ландшафт больше, чем многие люди. С помощью своих плотин бобры регулируют циркуляцию воды, поддерживают биоразнообразие и играют важную роль в смягчении последствий изменения климата.",
+            "name": "Bebru diena",
+            "info": "«Starptautiskā bebru diena» — Tie ir īpaši svētki, kas veltīti dzīvniekiem, kuru aktivitātes veido ainavu vairāk nekā daudzi cilvēki. Ar saviem aizsprostiem bebri regulē ūdens cirkulāciju, atbalsta bioloģisko daudzveidību un spēlē nozīmīgu lomu klimata pārmaiņu mazināšanā.",
             "link": ""
         },
         {
             "date": "4-8",
-            "name": "День цыган",
-            "info": "«Международный день цыган» — интернациональный праздник, который отмечают цыгане по всему миру ежегодно 8 апреля.",
+            "name": "Čigānu diena",
+            "info": "«Starptautiskā Čigānu diena» — starptautiski svētki, ko čigāni visā pasaulē katru gadu svin 8.aprīlī.",
             "link": ""
         },
         {
             "date": "4-9",
-            "name": "День «веселящего газа»",
-            "info": "День рождения «веселящего газа» - Оксид азота - соединение с химической формулой N2O.",
+            "name": "Smieklu gāzes diena",
+            "info": "Smieklu gāzes dzimšanas diena - slāpekļa oksīds ir savienojums ar ķīmisko formulu N2O.",
             "link": ""
         },
         {
             "date": "4-10",
-            "name": "День «гречки»",
-            "info": "Международный день «гречки» - гречневую кашу варят из зерен гречихи, которую начали выращивать в 6-м тысячелетии до нашей эры в регионе, который сейчас является провинцией Юньнань на юго-западе Китая.",
+            "name": "Griķu diena",
+            "info": "Starptautiskā Griķu diena» - Griķu biezputru gatavo no griķu graudiem, kas pirmo reizi tika kultivēti 6. tūkstošgadē pirms mūsu ēras reģionā, kas tagad ir Juņnaņas provincē Ķīnas dienvidrietumos.",
             "link": ""
         },
         {
             "date": "4-11",
-            "name": "День анимешника»",
-            "info": "«Всемирный день анимешника» ежегодно отмечают все любители японской анимации 11 апреля.",
+            "name": "Anime fanu diena",
+            "info": "«Vispasaules Anime fanu diena» 11. aprīlī katru gadu atzīmē visi japāņu animācijas cienītāji.",
             "link": ""
         },
         {
             "date": "4-12",
-            "name": "День космонавтики",
-            "info": "«Всемирный день авиации и космонавтики» - 12 апреля, дата, установленная в ознаменование первого полёта человека в космос.",
+            "name": "Kosmonautikas diena",
+            "info": "«Vispasaules aviācijas un kosmonautikas diena» - 12. aprīlis, datums, kas noteikts, lai pieminētu pirmo cilvēka lidojumu kosmosā.",
             "link": "https://www.youtube.com/channel/UCxfH2IY8Y1EsETo2K8m4QZA/community?lb=UgkxC6McTEK3rcTNlol888YGa-TvdkqpVUj8"
         },
         {
             "date": "4-13",
-            "name": "День рок-н-ролла",
-            "info": "«Всемирный день рок-н-ролла». Однако историческое событие, которое стало основой для праздника, произошло 12 апреля 1954 года.",
+            "name": "Rokenrola diena",
+            "info": "«Vispasaules Rokenrola diena». Taču vēsturiskais notikums, kas kļuva par svētku pamatu, notika 1954. gada 12. aprīlī.",
             "link": ""
         },
         {
             "date": "4-14",
-            "name": "День квантовой физики",
-            "info": "«Всемирный день квантовой физики». <br>Дата - 14 апреля - была выбрана в связи с постоянной Планка (4.14×10⁻¹⁵ eV⋅Hz⁻¹), фундаментальной константой в квантовой физике.",
+            "name": "Kvantu diena",
+            "info": "«Vispasaules Kvantu diena». <br>Datums, 14. aprīlis, tika izvēlēts saistībā ar Planka konstanti (4,14×10⁻¹⁵ eV⋅Hz⁻¹), kas ir kvantu fizikas pamatkonstante.",
             "link": "https://www.youtube.com/channel/UCxfH2IY8Y1EsETo2K8m4QZA/community?lb=Ugkx_QUINAWuQCHaY2a8UMm3uzufRZvYeSdG"
         },
         {
             "date": "4-15",
-            "name": "День искусства",
-            "info": "«Всемирный день искусства» - празднование способствует укреплению связей между художественными произведениями и обществом, повышению осведомленности о разнообразии художественных выражений и привлечению внимания к вкладу артистов в устойчивое развитие.",
+            "name": "Mākslas diena",
+            "info": "«Vispasaules Mākslas diena» - Svētki palīdz stiprināt saikni starp mākslas darbiem un sabiedrību, veicina izpratni par māksliniecisko izpausmju daudzveidību un izceļ mākslinieku ieguldījumu ilgtspējīgā attīstībā.",
             "link": ""
         },
         {
             "date": "4-16",
-            "name": "День голоса",
-            "info": "«Международный день голоса» - ежегодное всемирное мероприятие, которое проходит 16 апреля и посвящено празднованию феномена голоса. <br>Цель – продемонстрировать огромную важность голоса в повседневной жизни всех людей.",
+            "name": "Balss diena",
+            "info": "«Starptautiskā Balss diena» - Ikgadējs vispasaules pasākums, kas notiek 16. aprīlī, lai atzīmētu balss fenomenu. <br>Mērķis ir demonstrēt balss milzīgo nozīmi visu cilvēku ikdienas dzīvē.",
             "link": ""
         },
         {
             "date": "4-17",
-            "name": "День денег",
-            "info": "«Международный день денег» - в современном мире деньги – неотъемлемая часть жизни.",
+            "name": "Naudas diena",
+            "info": "«Starptautiskā Naudas diena» - Mūsdienu pasaulē nauda ir neatņemama dzīves sastāvdaļa.",
             "link": ""
         },
         {
             "date": "4-17",
-            "name": "День бла-бла-бла",
-            "info": "В этот день предлагается, вместо разговоров сделать то, что постоянно откладывается. <br>Бла-бла-бла понимается как бессмысленная болтовня или пустая болтовня.",
+            "name": "Bla bla bla diena",
+            "info": "Šajā dienā runāšanas vietā tiek ieteikts darīt to, kas nemitīgi tiek atlikts. <br>Bla-bla-bla tiek saprasta kā bezjēdzīga pļāpāšana vai tukša pļāpāšana.",
             "link": ""
         },
         {
             "date": "4-18",
-            "name": "День радиолюбителя",
-            "info": "«Всемирный день радиолюбителя» — это праздник, который объединяет всех, кто увлекается радиосвязью и радиоэлектроникой.",
+            "name": "Radioamatieru diena",
+            "info": "«Vispasaules Radioamatieru diena» — Šie ir svētki, kas vieno visus, kam interesē radiosakari un radioelektronika.",
             "link": ""
         },
         {
             "date": "4-19",
-            "name": "День подснежника",
-            "info": "«Международный День подснежника» - Одни из важнейших ритуалов празднования Дня подснежника в этой культуре — распевание песен о приходе весны и хождение по гостям.<br>Подснежники — это первые цветы, которые появляются после зимних холодов и соответственно символизируют начало весны.",
+            "name": "Sniegpulkstenīšu diena",
+            "info": "«Starptautiskā Sniegpulkstenīšu diena» - Daži no svarīgākajiem Sniegpulkstenīšu dienas svinēšanas rituāliem šajā kultūrā ir dziesmu dziedāšana par pavasara atnākšanu un ciemošanos.<br>Sniegpulkstenītes ir pirmie ziedi, kas parādās pēc ziemas aukstuma un tāpēc simbolizē pavasara sākumu.",
             "link": ""
         },
         {
             "date": "4-20",
-            "name": "День марихуаны",
-            "info": "«Международный день марихуаны/ конопли» - день стал контркультурным праздником, когда принято собираться и употреблять коноплю вместе. <br>Множество курильщиков конопли из Северной Америки продолжают встречаться в 16:20, чтобы покурить коноплю сообща. С ростом употребления термина 420, он также распространился и на дату 20 апреля («4/20» в сокращённом формате записи даты в США). <br>Выражение стало частью приветствия группы молодых людей, которые использовали шифрованную фразу “420” для призыва расслабиться.",
+            "name": "Marihuānas diena",
+            "info": "«Starptautiskā Marihuānas diena/ kaņepes» - Diena ir kļuvusi par pretkultūru svētkiem, lai kopā savāktos un lietotu kaņepes. <br>Daudzi Ziemeļamerikas kaņepju smēķētāji turpina tikties pulksten 16:20, lai kopīgi smēķētu kaņepes. Pieaugot termina 420 lietojumam, tajā tika iekļauts arī datums 20. aprīlis (ASV saīsinājumā '4/20'). <br>Izteiciens kļuva par daļu no apsveikuma jauniešu grupai, kas izmantoja koda frāzi “420”, lai veicinātu relaksāciju.",
             "link": ""
         },
         {
             "date": "4-21",
-            "name": "День женской дружбы",
-            "info": "«Международный день женской дружбы» - этот день стал своего рода движением, укрепляющим солидарность и взаимоподдержку среди женщин.",
+            "name": "Sieviešu draudzības diena",
+            "info": "«Starptautiskā Sieviešu draudzības diena» - Šī diena ir kļuvusi par sava veida kustību, kas stiprina sieviešu solidaritāti un savstarpējo atbalstu.",
             "link": ""
         },
         {
             "date": "4-22",
-            "name": "День Земли",
-            "info": "«Международный день Матери-Земли» - праздник, призывающий беречь природу и жить экологично. <br>каждый из нас обязан своим существованием нашей планете и её экосистемам. <br>Праздник ежегодно проходит в США с 1970-х годов. Международным праздник стал лишь в 2009-м по инициативе Организации объединенных наций.",
+            "name": "Zemes diena",
+            "info": "«Starptautiskā Mātes-Zemes diena» - svētki, kas aicina saudzēt dabu un dzīvot videi draudzīgu dzīvi. Katrs no mums ir parādā savu eksistenci mūsu planētai un tās ekosistēmām. <br>Svētki Amerikas Savienotajās Valstīs tiek rīkoti katru gadu kopš pagājušā gadsimta 70. gadiem. Starptautiski svētki kļuva tikai 2009. gadā pēc Apvienoto Nāciju Organizācijas iniciatīvas.",
             "link": ""
         },
         {
             "date": "4-23",
-            "name": "День книги и авторского права",
-            "info": "«Всемирный день книги и авторского права» — это праздник, который призван укрепить любовь ко книгам и чтению.",
+            "name": "Grāmatu un autortiesību diena",
+            "info": "«Vispasaules Grāmatu un autortiesību diena» — Šie ir svētki, kas paredzēti, lai stiprinātu mīlestību pret grāmatām un lasīšanu.",
             "link": ""
         },
         {
             "date": "4-24",
-            "name": "День защиты лабораторных животных",
-            "info": "«Всемирный день защиты лабораторных животных» - первоначально он «отмечался» зоозащитными организациями в ряде стран, а сегодня уже по всему миру активно развивается движение против вивисекции (экспериментов и опытов над лабораторными животными), которое поддерживают активисты различных общественных и зоозащитных организаций. <br>Более 150 миллионов животных в год используется в лабораториях мира для тестирования препаратов и косметики.",
+            "name": "Laboratorijas dzīvnieku diena",
+            "info": "«Vispasaules Laboratorijas dzīvnieku diena» - Sākotnēji to “svinēja” dzīvnieku tiesību organizācijas vairākās valstīs, un mūsdienās visā pasaulē aktīvi attīstās kustība pret vivisekciju (eksperimenti un testi ar laboratorijas dzīvniekiem), ko atbalsta dažādu sabiedrisko un dzīvnieku tiesību organizāciju aktīvisti. <br>Vairāk nekā 150 miljoni dzīvnieku gadā tiek izmantoti laboratorijās visā pasaulē, lai pārbaudītu zāles un kosmētiku.",
             "link": ""
         },
         {
             "date": "4-24",
-            "name": "День солидарности молодёжи",
-            "info": "«Международный день солидарности молодёжи» - Главная цель Дня — сплотить молодёжь и укрепить её единство.",
+            "name": "Jauniešu solidaritātes diena",
+            "info": "«Starptautiskā Jauniešu solidaritātes diena» - Dienas galvenais mērķis ir saliedēt jauniešus un stiprināt viņu vienotību.",
             "link": ""
         },
         {
             "date": "4-25",
-            "name": "День борьбы против малярии",
-            "info": "«Всемирный день борьбы против малярии» - повод напомнить о необходимости постоянно мобилизовать ресурсы и политическую поддержку для профилактики малярии и борьбы с ней.",
+            "name": "Pasaules malārijas diena",
+            "info": "«Vispasaules Pasaules malārijas diena» - iemesls atgādināt par nepieciešamību pastāvīgi mobilizēt resursus un politisko atbalstu malārijas profilaksei un kontrolei.",
             "link": ""
         },
         {
             "date": "4-25",
-            "name": "День бумажных самолётиков",
-            "info": "«Международный день бумажных самолётиков» - относительно новый и очень душевный праздник, посвящённый незамысловатым игрушкам, сложенным из бумаги в технике оригами. Празднование Дня бумажного самолётика обычно включает в себя общественные собрания, на которых участники создают бумажные самолётики и летают на них.",
+            "name": "Papīra lidmašīnu diena",
+            "info": "«Starptautiskā Papīra lidmašīnu diena» - salīdzinoši jauni un ļoti sirsnīgi svētki, kas veltīti vienkāršām rotaļlietām, kas locītas no papīra origami veidā. Papīra lidmašīnu dienas svinības parasti ietver kopienas sapulces, kurās dalībnieki veido un lido ar papīra lidmašīnām.",
             "link": ""
         },
         {
             "date": "4-25",
-            "name": "День ДНК",
-            "info": "«Международный День ДНК» - установлен в честь того дня в 1953 году, когда в журнале «Nature» вышли три статьи, посвящённые открытию молекулярной структуры ДНК <br>Макромолекула ДНК представляет собой дезоксирибонуклеиновую кислоту, где содержится вся генетическая информация человека. Она имеет форму двойной спирали, напоминающей большую спиралевидную лестницу, каждая ступень которой состоит из двух нуклеотидов. Благодаря молекуле ДНК стало возможным определить генетический код человека ещё до его рождения.<br>(ДНК - Дезоксирибонуклеи́новая кислота́)",
+            "name": "DNS diena",
+            "info": "«Starptautiskā DNS diena» - izveidota par godu dienai 1953. gadā, kad žurnālā Nature tika publicēti trīs raksti, kas veltīti DNS molekulārās struktūras atklāšanai <br>DNS makromolekula ir dezoksiribonukleīnskābe, kas satur visu cilvēka ģenētisko informāciju. Tam ir dubultspirāles forma, kas atgādina lielas spirālveida kāpnes, un katrs pakāpiens sastāv no diviem nukleotīdiem. Pateicoties DNS molekulai, kļuva iespējams noteikt cilvēka ģenētisko kodu jau pirms viņa dzimšanas.<br>(DNS - Dezoksiribonukleīnskābe)",
             "link": ""
         },
         {
             "date": "4-26",
-            "name": "День «Обними друга»",
-            "info": "Обнимашки приносят массу пользы организму и помогают легко поднять настроение даже самому грустному человеку.",
+            "name": "Diena «Apskauj draugu»",
+            "info": "Apskāvieni nes daudz labumu ķermenim un palīdz viegli pacelt garastāvokli pat visbēdīgākajam cilvēkam.",
             "link": ""
         },
         {
             "date": "4-27",
-            "name": "День азбуки Морзе",
-            "info": "«Всемирный день азбуки Морзе» - Назван в честь американского изобретателя и художника Сэмюэла Морзе. <br>Азбука Морзе — легендарный способ кодирования, при котором буквы, цифры и символы передаются с помощью комбинаций коротких (·) и длинных (—) сигналов. Создана в 1830-х годах Сэмюэлем Морзе и Альфредом Вейлом для телеграфа, она стала прорывом в коммуникациях. <br>Самый простой код — для буквы «E» (·), поскольку это самая распространённая буква в английском языке. В 1851 году появился Международный код Морзе, адаптированный для разных языков. Всемирно известный сигнал SOS (· · · — — — · · ·), утверждённый в 1906 году, до сих пор остаётся универсальным призывом о помощи. Несмотря на технологический прогресс, азбука Морзе до сих пор используется в авиации, радиосвязи и чрезвычайных ситуациях.",
+            "name": "Morzes ābeces diena",
+            "info": "«Vispasaules Morzes ābeces diena» - Nosaukts amerikāņu izgudrotāja un mākslinieka Semjuela Morza vārdā. <br>Morzes kods ir leģendāra kodēšanas metode, kurā burti, cipari un simboli tiek pārraidīti, izmantojot īsu (·) un garu (—) signālu kombinācijas. To 1830. gados izveidoja Semjuels Morze un Alfrēds Vails telegrāfam, un tas bija izrāviens sakaru jomā. <br>Vienkāršākais kods ir burtam 'E' (·), jo tas ir visizplatītākais burts angļu valodā. 1851. gadā parādījās Starptautiskais Morzes kods, kas pielāgots dažādām valodām. Pasaulē slavenais SOS signāls (· · · — — — · · ·), kas pieņemts 1906. gadā, joprojām ir universāls palīdzības aicinājums. Neskatoties uz tehnoloģiju attīstību, Morzes ābece joprojām tiek izmantota aviācijā, radio sakaros un ārkārtas situācijās.",
             "link": ""
         },
         {
@@ -758,20 +758,20 @@
         },
         {
             "date": "4-29",
-            "name": "День желаний",
-            "info": "«Всемирный день исполнения Детских Желаний» - отмечают праздник в пятидесяти странах мира. <br>Цель праздника - привлечь внимание общественности к судьбе детей, страдающих серьезными или неизлечимыми заболеваниями.",
+            "name": "Vēlmju diena",
+            "info": "«Vispasaules bērnu vēlmju piepildījuma diena» - Svētki tiek svinēti piecdesmit valstīs visā pasaulē. <br>Svētku mērķis ir pievērst sabiedrības uzmanību ar smagām vai neārstējamām slimībām slimojošu bērnu likteņiem.",
             "link": ""
         },
         {
             "date": "4-30",
-            "name": "День джаза",
-            "info": "«Международный день джаза» - ежегодное событие, организованное ЮНЕСКО, чтоб отметить «рост уровня информированности международной общественности о джазе",
+            "name": "Džeza diena",
+            "info": "«Starptautiskā džeza diena ir ikgadējs pasākums, ko organizē UNESCO, lai atzīmētu 'starptautiskās sabiedrības pieaugošo izpratni par džezu'",
             "link": ""
         },
         {
             "date": "5-1",
-            "name": "День труда",
-            "info": "«Международный День труда/ Праздник Весны» - изначально носил название День международной солидарности трудящихся.",
+            "name": "Darba svētki",
+            "info": "«Starptautiskā darba diena/Pavasara svētki - sākotnēji tika saukts par Starptautisko strādnieku dienu.",
             "link": ""
         },
         {
@@ -789,67 +789,67 @@
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": ""
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
             "date": "5-4",
             "name": "Neatkarības atjaunošana",
-            "info": "День восстановления независимости Латвии.",
+            "info": "Latvijas Neatkarības atjaunošanas diena.",
             "link": "https://lv.wikipedia.org/wiki/Latvijas_neatkarība"
         },
         {
@@ -1155,13 +1155,13 @@
         {
             "date": "6-23",
             "name": "Līgo",
-            "info": "Празднование Ивана Купалы.",
+            "info": "Ivana Kupalas godināšana.",
             "link": ""
         },
         {
             "date": "6-24",
             "name": "Jāņi",
-            "info": "Латвийский праздник летнего солнцестояния.",
+            "info": "Latvijas vasaras saulgriežu svētki.",
             "link": ""
         },
         {
@@ -2049,7 +2049,7 @@
         {
             "date": "11-18",
             "name": "Proklamēšanas diena",
-            "info": "День провозглашения независимости Латвии.",
+            "info": "Latvijas Neatkarības proklamēšanas diena.",
             "link": ""
         },
         {
@@ -2265,19 +2265,19 @@
         {
             "date": "12-24",
             "name": "Z-svētku vakars",
-            "info": "Сочельник.",
+            "info": "Ziemassvētku vakars.",
             "link": ""
         },
         {
             "date": "12-25",
             "name": "1. Z-svētki",
-            "info": "Первый день Рождества.",
+            "info": "Pirmie Ziemassvētki",
             "link": ""
         },
         {
             "date": "12-26",
             "name": "2. Z-svētki",
-            "info": "Второй день Рождества.",
+            "info": "Otrie Ziemassvētki",
             "link": ""
         },
         {
@@ -2307,7 +2307,7 @@
         {
             "date": "12-31",
             "name": "Vecgada vakars",
-            "info": "Канун Нового года.",
+            "info": "Vecgada vakars.",
             "link": ""
         }
     ]
