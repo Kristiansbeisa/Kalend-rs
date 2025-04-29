@@ -254,12 +254,7 @@ strong {
     font-size: 20px;
 }
 
-a:active {
+a {
     color:black;
     text-decoration: none;
 }
-
-a:visited {
-    color:black;
-    text-decoration: none;
-  }
