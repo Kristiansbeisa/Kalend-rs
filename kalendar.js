@@ -154,7 +154,7 @@ function showHoliday(key, day) {
         <hr class="horizont_line">
         <strong>${h.name}</strong><br><br>
         <p>${h.info}</p>
-        ${h.link ? `<a href="${h.link}" target="_blank">Ссылка</a>` : ''}
+        ${h.link ? `<a href="${h.link}" target="_blank">Saite</a>` : ''}
       </div>`;
     });
   }
