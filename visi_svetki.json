@@ -735,7 +735,7 @@
         {
             "date": "4-25",
             "name": "DNS diena",
-            "info": "«Starptautiskā DNS diena» - izveidota par godu dienai 1953. gadā, kad žurnālā Nature tika publicēti trīs raksti, kas veltīti DNS molekulārās struktūras atklāšanai <br>DNS makromolekula ir dezoksiribonukleīnskābe, kas satur visu cilvēka ģenētisko informāciju. Tam ir dubultspirāles forma, kas atgādina lielas spirālveida kāpnes, un katrs pakāpiens sastāv no diviem nukleotīdiem. Pateicoties DNS molekulai, kļuva iespējams noteikt cilvēka ģenētisko kodu jau pirms viņa dzimšanas.<br>(DNS - Dezoksiribonukleīnskābe)",
+            "info": "«Starptautiskā DNS diena» - izveidota par godu dienai 1953. gadā, kad žurnālā Nature tika publicēti trīs raksti, kas veltīti DNS molekulārās struktūras atklāšanai. <br>DNS makromolekula ir dezoksiribonukleīnskābe, kas satur visu cilvēka ģenētisko informāciju. Tam ir dubultspirāles forma, kas atgādina lielas spirālveida kāpnes, un katrs pakāpiens sastāv no diviem nukleotīdiem. Pateicoties DNS molekulai, kļuva iespējams noteikt cilvēka ģenētisko kodu jau pirms viņa dzimšanas.<br>(DNS - Dezoksiribonukleīnskābe)",
             "link": ""
         },
         {
@@ -765,19 +765,25 @@
         {
             "date": "4-30",
             "name": "Džeza diena",
-            "info": "«Starptautiskā džeza diena ir ikgadējs pasākums, ko organizē UNESCO, lai atzīmētu 'starptautiskās sabiedrības pieaugošo izpratni par džezu'",
+            "info": "«Starptautiskā džeza diena» ir ikgadējs pasākums, ko organizē UNESCO, lai atzīmētu 'starptautiskās sabiedrības pieaugošo izpratni par džezu'",
             "link": ""
         },
         {
             "date": "5-1",
             "name": "Darba svētki",
-            "info": "«Starptautiskā darba diena/Pavasara svētki - sākotnēji tika saukts par Starptautisko strādnieku dienu.",
+            "info": "«Starptautiskā darba diena/Pavasara svētki» - sākotnēji tika saukts par Starptautisko strādnieku dienu.",
             "link": ""
         },
         {
             "date": "5-2",
-            "name": "...",
-            "info": "...",
+            "name": "Harija Potera diena",
+            "info": "«Starptautiskā Harija Potera diena» - katru gadu šajā dienā Harija Potera grāmatu fani svin savu iemīļoto varoni, zēnu ar rētu. <br>2. maijā notika Hogvartsas kauja, kurā zēns iznīcināja Voldemortu.",
+            "link": ""
+        },
+        {
+            "date": "5-3",
+            "name": "Saules diena",
+            "info": "«Vispasaules Saules diena» ir iespēja pievērst uzmanību tās enerģijai un maksimāli palielināt tās izmantošanas iespējas. <br>Dažus gadu tūkstošus cilvēki ir pielūguši Sauli kā visspēcīgāko un visvarenāko dievību.",
             "link": ""
         },
         {
@@ -854,20 +860,21 @@
         },
         {
             "date": "5-5",
-            "name": "...",
-            "info": "...",
+            "name": "Komunikācijas diena",
+            "info": "«Vispasaules komunikācijas diena» - svētku izcelsme nav zināma, bet tā tiek atzīmēta katru gadu šajā dienā. <br>Par godu svētkiem tiek rīkotas lekcijas un semināri, kuros psihologi un kouči stāsta par saskarsmes noslēpumiem. No tā ir atkarīga savstarpējas sapratnes panākšana ar tuviniekiem, panākumi sabiedrībā, karjeras izaugsme. Sarunas laikā cilvēks izmanto gan verbālus, gan neverbālus saskarsmes līdzekļus - žestus, sejas izteiksmi, skatienu. Lai uzrunātu sarunu biedru un komunikācija būtu efektīva, ir nepieciešams uzturēt ar viņu vizuālo kontaktu. Tajā pašā laikā skatienam un ķermeņa stāvoklim ir jāizsaka sirsnīga interese, jāizstaro atvērtība un draudzīgums. <br>Ar vienu vārdu var gan nogalināt, gan glābt cilvēku, kurš ir izmisis un neredz jēgu dzīvei.",
             "link": ""
-        },
+           
+            },
         {
             "date": "5-6",
-            "name": "...",
-            "info": "...",
+            "name": "Diena bez mājasdarbiem",
+            "info": "«Vispasaules diena bez mājasdarbiem» — vairums zinātnieku piekrīt, ka stresa pilns darbs maz ko dod akadēmiskās veiktspējas uzlabošanai. Vislabāk neuzdot kaudzes mājasdarbu, ja tie nekādā veidā neuzlabo skolēnu sniegumu. Skolotāji arī nevēlas tērēt dārgo laiku bezjēdzīgu dokumentu vērtēšanai. <br>Daži pētījumi liecina, ka pārāk daudz mājasdarbu faktiski var pazemināt akadēmisko sniegumu. Stenfordas universitātes pētījumā atklājās, ka 56% skolēnu uzskata mājasdarbus par galveno stresa avotu.",
             "link": ""
         },
         {
             "date": "5-7",
-            "name": "...",
-            "info": "...",
+            "name": "Čaikovska dzimšanas diena",
+            "info": "Pēters Iļjičs Čaikovskis dzimis 1840. gada 7. maijā. Krievu komponists, viens no labākajiem melodiķiem, diriģents, pedagogs, mūzikas un sabiedriskais darbinieks, mūzikas žurnālists. Autors 76 opusiem, 10 operām, 3 baletiem.",
             "link": ""
         },
         {
@@ -884,14 +891,20 @@
         },
         {
             "date": "5-10",
-            "name": "...",
-            "info": "...",
+            "name": "Deviņu dzīvju diena",
+            "info": "Diena, kad ikviens var sākt savu dzīvi ar tīru lapu. Šo datumu sauc par Deviņu dzīvību dienu. Šos svētkus var uzskatīt par neparastākajiem no visiem maijā svinamajiem, jo ​​tiem zināmā mērā piemīt maģiska būtība. Neviens nezina, kad šī diena parādījās un kāpēc tā tika nosaukta šādi. <br>Pastāv pieņēmumi, ka datuma nosaukums cēlies no metaforas, kas apgalvo, ka kaķu arsenālā ir pat deviņas dzīvības.",
+            "link": ""
+        },
+        {
+            "date": "5-10",
+            "name": "Hobijhorsinga diena",
+            "info": "Katru gadu svin 10. maijā. Tā ir veltīta rotaļu zirgu jāšanas hobijam. <br>Hobijzirgu jāšana ir jāšana uz koka spieķa ar zirga galvu.",
             "link": ""
         },
         {
             "date": "5-11",
-            "name": "...",
-            "info": "...",
+            "name": "Dabas mīlestības diena",
+            "info": "Svētki, kas tiek svinēti 11. maijā, aicina ne tikai domāt par apkārtējās pasaules aizsardzību no antropogēnās ietekmes, bet arī baudīt Visuma harmoniju, kuras daļa ir homo sapiens. Tāpēc mīlestība pret dabu ir cilvēka mīlestība pret sevi kā svarīgu Zemes biosfēras sastāvdaļu.",
             "link": ""
         },
         {
